@@ -1,0 +1,24 @@
+{
+	"members": [
+		{
+			"name": "Lorenz",
+			"role": "President"
+		},
+		{
+			"name": "Wyatt",
+			"role": "Vice President"
+		},
+		{
+			"name": "James",
+			"role": "Secretary"
+		},
+		{
+			"name": "Carson",
+			"role": "Officer"
+		},
+		{
+			"name": "Mark",
+			"role": "Officer"
+		}
+	]
+}
