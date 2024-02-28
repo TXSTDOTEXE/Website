@@ -1,0 +1,12 @@
+.members {
+	display: flex;
+	flex-direction: row;
+}
+
+.member-card {
+	display: block;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin: 5px 10px;
+}
